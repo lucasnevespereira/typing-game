@@ -1,4 +1,6 @@
-# Typing
+# Typing Game
+
+Simple typing game exercise to improve my Angular Skills
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
