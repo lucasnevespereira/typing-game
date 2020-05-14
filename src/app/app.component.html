@@ -10,7 +10,7 @@
           (input)="handleInput($event.target.value)"
         />
       </div>
-      <div class="box has-text-centered">
+      <div class="box has-text-centered" *ngIf="userInput === randomText">
         <p class="title">Success</p>
       </div>
     </div>
