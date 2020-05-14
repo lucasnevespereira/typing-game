@@ -1,0 +1,12 @@
+.waiting {
+  color: gray;
+}
+
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+  font-weight: bold;
+}
